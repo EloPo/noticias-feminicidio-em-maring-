@@ -1,4 +1,4 @@
-# README — Coletor de Notícias sobre Feminicídio em Maringá
+# Coletor de Notícias sobre Feminicídio em Maringá
 
 ## Descrição
 

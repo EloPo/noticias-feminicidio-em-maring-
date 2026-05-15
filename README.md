@@ -140,4 +140,5 @@ A disponibilidade dos resultados depende:
 # Autora
 
 **Eloisa Potrich**
+
 Projeto acadêmico voltado à pesquisa em Direito e análise de dados sobre feminicídio em Maringá/PR.
